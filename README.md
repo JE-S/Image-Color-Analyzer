@@ -1,4 +1,6 @@
 Image-Color-Analyzer
 ====================
 
-Returns graph with image hue information for a selected image
+Given an image path of an image, this program returns a graph with image hue information. 
+
+Utilizes Python 3.3 with Matplotlib, Pillow/PIL, and NumPy. 
